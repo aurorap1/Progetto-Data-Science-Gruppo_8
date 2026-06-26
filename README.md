@@ -2,3 +2,5 @@
 Analisi e valutazione Dataset Customer Churn
 
 Ciao, ho provato a modificare il file
+
+Ciao sono la Lu l'ho modificato
